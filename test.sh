@@ -5,3 +5,4 @@ NUM=$(($angkapertama + $angkakedua)) >> punyaemil.txt
 echo "hasilnya adalah $NUM"
 echo "ini punya emil"
 echo "ini setelah apus .git"
+echo "setelah di centang manage hoosls"
